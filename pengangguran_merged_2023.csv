@@ -1,0 +1,523 @@
+Provinsi,Kabupaten/Kota,Tingkat Pengangguran Terbuka,Tingkat Partisipasi Angkatan Kerja,TPT Provinsi,TPAK Provinsi
+Aceh,Simeulue,5.85,70.57,5.5,65.63
+Aceh,Aceh,6.03,64.77,5.5,65.63
+Aceh,Kota Subulussalam,5.69,67.75,5.5,65.63
+Aceh,Kota Lhokseumawe,8.78,64.36,5.5,65.63
+Aceh,Kota Langsa,7.73,59.98,5.5,65.63
+Aceh,Kota Banda Aceh,8.03,65.02,5.5,65.63
+Aceh,Pidie Jaya,4.34,59.79,5.5,65.63
+Aceh,Bener Meriah,2.45,83.25,5.5,65.63
+Aceh,Aceh Jaya,2.88,70.46,5.5,65.63
+Aceh,Nagan Raya,5.74,63.65,5.5,65.63
+Aceh,Aceh Tamiang,7.21,69.3,5.5,65.63
+Aceh,Gayo Lues,2.65,78.48,5.5,65.63
+Aceh,Kota Sabang,3.92,67.11,5.5,65.63
+Aceh,Aceh Utara,7.07,58.84,5.5,65.63
+Aceh,Aceh Barat Daya,4.08,60.18,5.5,65.63
+Aceh,Aceh Singkil,6.84,57.81,5.5,65.63
+Aceh,Aceh Selatan,4.73,58.87,5.5,65.63
+Aceh,Aceh Timur,8.03,60.48,5.5,65.63
+Aceh,Aceh Tenggara,5.0,70.43,5.5,65.63
+Aceh,Aceh Barat,6.07,59.62,5.5,65.63
+Aceh,Aceh Besar,8.17,66.86,5.5,65.63
+Aceh,Pidie,5.92,61.57,5.5,65.63
+Aceh,Bireuen,4.14,66.96,5.5,65.63
+Aceh,Aceh Tengah,4.42,76.85,5.5,65.63
+Sumatera Utara,Nias Selatan,3.48,79.29,5.05,70.13
+Sumatera Utara,Dairi,1.23,84.81,5.05,70.13
+Sumatera Utara,Langkat,6.33,75.87,5.05,70.13
+Sumatera Utara,Deli Serdang,8.62,67.62,5.05,70.13
+Sumatera Utara,Karo,2.63,83.86,5.05,70.13
+Sumatera Utara,Simalungun,5.35,72.15,5.05,70.13
+Sumatera Utara,Tapanuli Selatan,3.49,75.64,5.05,70.13
+Sumatera Utara,Labuhan Batu,5.99,64.84,5.05,70.13
+Sumatera Utara,Toba Samosir,,80.87,5.05,70.13
+Sumatera Utara,Tapanuli Utara,1.03,81.2,5.05,70.13
+Sumatera Utara,Tapanuli Tengah,7.81,74.52,5.05,70.13
+Sumatera Utara,Mandailing Natal,7.45,63.07,5.05,70.13
+Sumatera Utara,Humbang Hasundutan,,86.67,5.05,70.13
+Sumatera Utara,Asahan,6.12,69.53,5.05,70.13
+Sumatera Utara,Pakpak Bharat,,85.95,5.05,70.13
+Sumatera Utara,Kota Pematang Siantar,8.62,70.96,5.05,70.13
+Sumatera Utara,Serdang Bedagai,4.97,67.65,5.05,70.13
+Sumatera Utara,Kota Padangsidimpuan,7.57,68.9,5.05,70.13
+Sumatera Utara,Kota Binjai,6.1,62.79,5.05,70.13
+Sumatera Utara,Kota Medan,8.67,64.67,5.05,70.13
+Sumatera Utara,Kota Tebing Tinggi,6.24,65.7,5.05,70.13
+Sumatera Utara,Nias,2.31,81.68,5.05,70.13
+Sumatera Utara,Kota Tanjung Balai,4.47,69.79,5.05,70.13
+Sumatera Utara,Samosir,,86.89,5.05,70.13
+Sumatera Utara,Kota Sibolga,6.79,71.18,5.05,70.13
+Sumatera Utara,Nias Utara,2.57,81.27,5.05,70.13
+Sumatera Utara,Labuhan Batu Utara,4.84,64.68,5.05,70.13
+Sumatera Utara,Labuhan Batu Selatan,3.43,73.2,5.05,70.13
+Sumatera Utara,Padang Lawas,5.75,78.14,5.05,70.13
+Sumatera Utara,Padang Lawas Utara,4.42,73.41,5.05,70.13
+Sumatera Utara,Batu Bara,5.88,72.94,5.05,70.13
+Sumatera Utara,Nias Barat,0.8,81.08,5.05,70.13
+Sumatera Utara,Kota Gunungsitoli,3.67,67.77,5.05,70.13
+Sumatera Utara,Sumatera Utara,5.89,71.06,5.05,70.13
+Sumatera Barat,Sumatera Barat,5.94,69.61,5.69,70.95
+Sumatera Barat,Kota Payakumbuh,4.84,71.86,5.69,70.95
+Sumatera Barat,Kota Bukittinggi,4.99,70.27,5.69,70.95
+Sumatera Barat,Kota Padang Panjang,5.49,66.05,5.69,70.95
+Sumatera Barat,Kota Sawah Lunto,4.98,69.9,5.69,70.95
+Sumatera Barat,Kota Solok,3.72,70.12,5.69,70.95
+Sumatera Barat,Kota Padang,10.86,66.99,5.69,70.95
+Sumatera Barat,Pasaman Barat,6.01,66.42,5.69,70.95
+Sumatera Barat,Kota Pariaman,5.68,71.23,5.69,70.95
+Sumatera Barat,Dharmasraya,6.22,73.93,5.69,70.95
+Sumatera Barat,Pasaman,5.09,73.05,5.69,70.95
+Sumatera Barat,Lima Puluh Kota,3.95,72.63,5.69,70.95
+Sumatera Barat,Kepulauan Mentawai,,80.07,5.69,70.95
+Sumatera Barat,Pesisir Selatan,4.75,65.0,5.69,70.95
+Sumatera Barat,Solok,4.99,76.74,5.69,70.95
+Sumatera Barat,Sijunjung,4.71,68.51,5.69,70.95
+Sumatera Barat,Tanah Datar,5.35,69.43,5.69,70.95
+Sumatera Barat,Solok Selatan,2.57,76.52,5.69,70.95
+Sumatera Barat,Padang Pariaman,6.69,65.18,5.69,70.95
+Sumatera Barat,Agam,4.96,69.16,5.69,70.95
+Riau,Kampar,3.38,59.63,4.12,64.68
+Riau,Riau,4.23,64.45,4.12,64.68
+Riau,Kota Dumai,5.15,66.07,4.12,64.68
+Riau,Kota Pekanbaru,6.2,66.04,4.12,64.68
+Riau,Kepulauan Meranti,5.17,65.76,4.12,64.68
+Riau,Rokan Hilir,4.42,65.99,4.12,64.68
+Riau,Bengkalis,7.09,61.76,4.12,64.68
+Riau,Rokan Hulu,3.45,66.73,4.12,64.68
+Riau,Siak,5.82,65.72,4.12,64.68
+Riau,Pelalawan,2.26,68.83,4.12,64.68
+Riau,Indragiri Hilir,1.71,60.72,4.12,64.68
+Riau,Indragiri Hulu,2.47,67.56,4.12,64.68
+Riau,Kuantan Singingi,2.49,63.95,4.12,64.68
+Jambi,Batang Hari,3.85,62.01,4.48,67.11
+Jambi,Muaro Jambi,5.4,74.38,4.48,67.11
+Jambi,Jambi,4.53,68.75,4.48,67.11
+Jambi,Tanjung Jabung Timur,1.67,67.56,4.48,67.11
+Jambi,Kerinci,2.48,71.89,4.48,67.11
+Jambi,Merangin,4.35,71.17,4.48,67.11
+Jambi,Sarolangun,5.09,66.52,4.48,67.11
+Jambi,Tanjung Jabung Barat,2.95,70.17,4.48,67.11
+Jambi,Tebo,1.71,70.13,4.48,67.11
+Jambi,Bungo,5.23,70.3,4.48,67.11
+Jambi,Kota Jambi,8.27,64.85,4.48,67.11
+Jambi,Kota Sungai Penuh,3.8,68.24,4.48,67.11
+Sumatera Selatan,Kota Lubuklinggau,5.64,70.88,3.89,70.56
+Sumatera Selatan,Kota Pagar Alam,2.71,73.9,3.89,70.56
+Sumatera Selatan,Kota Prabumulih,5.05,68.6,3.89,70.56
+Sumatera Selatan,Kota Palembang,7.49,67.51,3.89,70.56
+Sumatera Selatan,Musi Rawas Utara,5.11,70.12,3.89,70.56
+Sumatera Selatan,Musi Rawas,1.95,68.36,3.89,70.56
+Sumatera Selatan,Penukal Abab Lematang Ilir,3.99,79.39,3.89,70.56
+Sumatera Selatan,Ogan Komering Ilir,3.23,69.34,3.89,70.56
+Sumatera Selatan,Ogan Komering Ulu,4.13,72.67,3.89,70.56
+Sumatera Selatan,Empat Lawang,3.09,72.41,3.89,70.56
+Sumatera Selatan,Muara Enim,3.92,72.99,3.89,70.56
+Sumatera Selatan,Ogan Komering Ulu Timur,3.96,76.53,3.89,70.56
+Sumatera Selatan,Ogan Komering Ulu Selatan,1.81,75.56,3.89,70.56
+Sumatera Selatan,Banyu Asin,3.35,62.68,3.89,70.56
+Sumatera Selatan,Musi Banyuasin,2.58,72.63,3.89,70.56
+Sumatera Selatan,Lahat,3.41,74.79,3.89,70.56
+Sumatera Selatan,Ogan Ilir,2.1,73.38,3.89,70.56
+Sumatera Selatan,Sumatera Selatan,4.11,70.72,3.89,70.56
+Bengkulu,Mukomuko,3.14,67.16,3.24,71.15
+Bengkulu,Kota Bengkulu,5.04,66.61,3.24,71.15
+Bengkulu,Bengkulu Tengah,3.2,64.96,3.24,71.15
+Bengkulu,Bengkulu Selatan,3.56,75.95,3.24,71.15
+Bengkulu,Rejang Lebong,2.94,77.86,3.24,71.15
+Bengkulu,Bengkulu Utara,3.33,68.6,3.24,71.15
+Bengkulu,Kaur,3.81,68.44,3.24,71.15
+Bengkulu,Seluma,2.68,73.44,3.24,71.15
+Bengkulu,Bengkulu,3.42,70.91,3.24,71.15
+Bengkulu,Lebong,2.72,70.23,3.24,71.15
+Bengkulu,Kepahiang,2.41,75.73,3.24,71.15
+Lampung,Lampung Barat,2.25,82.01,4.07,71.16
+Lampung,Tanggamus,3.35,70.6,4.07,71.16
+Lampung,Lampung,4.23,70.04,4.07,71.16
+Lampung,Lampung Tengah,3.25,73.32,4.07,71.16
+Lampung,Kota Metro,3.6,68.92,4.07,71.16
+Lampung,Kota Bandar Lampung,7.43,66.05,4.07,71.16
+Lampung,Pesisir Barat,3.47,71.91,4.07,71.16
+Lampung,Lampung Timur,3.09,68.74,4.07,71.16
+Lampung,Tulang Bawang Barat,3.89,70.77,4.07,71.16
+Lampung,Lampung Selatan,4.95,66.43,4.07,71.16
+Lampung,Pringsewu,4.66,73.29,4.07,71.16
+Lampung,Pesawaran,4.76,70.45,4.07,71.16
+Lampung,Tulangbawang,3.46,71.47,4.07,71.16
+Lampung,Way Kanan,3.07,73.32,4.07,71.16
+Lampung,Lampung Utara,5.73,65.5,4.07,71.16
+Lampung,Mesuji,2.46,70.15,4.07,71.16
+Kepulauan Bangka Belitung,Kepulauan Bangka Belitung,4.56,68.34,4.17,67.67
+Kepulauan Bangka Belitung,Belitung Timur,2.41,70.48,4.17,67.67
+Kepulauan Bangka Belitung,Bangka Selatan,4.84,66.93,4.17,67.67
+Kepulauan Bangka Belitung,Bangka,5.03,67.46,4.17,67.67
+Kepulauan Bangka Belitung,Belitung,4.14,68.09,4.17,67.67
+Kepulauan Bangka Belitung,Kota Pangkal Pinang,5.76,66.55,4.17,67.67
+Kepulauan Bangka Belitung,Bangka Tengah,3.88,70.09,4.17,67.67
+Kepulauan Bangka Belitung,Bangka Barat,4.77,70.22,4.17,67.67
+Kepulauan Riau,Kota Tanjung Pinang,4.76,66.53,6.89,66.84
+Kepulauan Riau,Kepulauan Riau,6.8,68.68,6.89,66.84
+Kepulauan Riau,Kota Batam,8.14,69.63,6.89,66.84
+Kepulauan Riau,Kepulauan Anambas,2.55,70.4,6.89,66.84
+Kepulauan Riau,Lingga,3.52,70.11,6.89,66.84
+Kepulauan Riau,Bintan,5.43,67.55,6.89,66.84
+Kepulauan Riau,Karimun,6.02,64.79,6.89,66.84
+Kepulauan Riau,Natuna,4.05,72.43,6.89,66.84
+DKI Jakarta,Kota Jakarta Barat,6.39,64.8,6.18,65.4
+DKI Jakarta,Kota Jakarta Pusat,6.42,63.98,6.18,65.4
+DKI Jakarta,Kota Jakarta Timur,7.24,65.11,6.18,65.4
+DKI Jakarta,Kota Jakarta Selatan,5.37,66.05,6.18,65.4
+DKI Jakarta,Kepulauan Seribu,8.11,73.7,6.18,65.4
+DKI Jakarta,DKI Jakarta,6.53,65.21,6.18,65.4
+DKI Jakarta,Kota Jakarta Utara,7.05,65.5,6.18,65.4
+Jawa Barat,Kota Bogor,9.39,64.81,6.74,68.91
+Jawa Barat,Bekasi,8.87,65.0,6.74,68.91
+Jawa Barat,Bandung Barat,8.11,67.01,6.74,68.91
+Jawa Barat,Pangandaran,1.52,80.15,6.74,68.91
+Jawa Barat,Kota Sukabumi,8.53,62.57,6.74,68.91
+Jawa Barat,Kota Depok,6.97,62.76,6.74,68.91
+Jawa Barat,Kota Banjar,5.43,67.44,6.74,68.91
+Jawa Barat,Kota Tasikmalaya,6.55,65.44,6.74,68.91
+Jawa Barat,Kota Cimahi,10.52,68.43,6.74,68.91
+Jawa Barat,Kota Bandung,8.83,66.97,6.74,68.91
+Jawa Barat,Karawang,8.95,63.4,6.74,68.91
+Jawa Barat,Jawa Barat,7.44,66.49,6.74,68.91
+Jawa Barat,Purwakarta,7.72,66.37,6.74,68.91
+Jawa Barat,Garut,7.33,70.1,6.74,68.91
+Jawa Barat,Indramayu,6.46,63.88,6.74,68.91
+Jawa Barat,Sumedang,6.94,67.76,6.74,68.91
+Jawa Barat,Majalengka,4.12,68.5,6.74,68.91
+Jawa Barat,Cirebon,7.65,66.16,6.74,68.91
+Jawa Barat,Kuningan,9.49,61.95,6.74,68.91
+Jawa Barat,Ciamis,3.52,66.26,6.74,68.91
+Jawa Barat,Tasikmalaya,3.89,68.37,6.74,68.91
+Jawa Barat,Kota Bekasi,7.9,64.65,6.74,68.91
+Jawa Barat,Bandung,6.52,67.1,6.74,68.91
+Jawa Barat,Cianjur,7.71,72.31,6.74,68.91
+Jawa Barat,Sukabumi,7.32,67.75,6.74,68.91
+Jawa Barat,Bogor,8.47,64.22,6.74,68.91
+Jawa Barat,Subang,7.65,70.03,6.74,68.91
+Jawa Barat,Kota Cirebon,7.66,68.71,6.74,68.91
+Jawa Tengah,Kota Tegal,6.05,66.64,4.33,73.17
+Jawa Tengah,Cilacap,8.74,66.6,4.33,73.17
+Jawa Tengah,Demak,5.38,70.76,4.33,73.17
+Jawa Tengah,Semarang,4.05,76.07,4.33,73.17
+Jawa Tengah,Temanggung,2.32,75.8,4.33,73.17
+Jawa Tengah,Kendal,5.76,76.93,4.33,73.17
+Jawa Tengah,Batang,6.06,76.62,4.33,73.17
+Jawa Tengah,Pekalongan,3.25,70.46,4.33,73.17
+Jawa Tengah,Pemalang,6.55,69.58,4.33,73.17
+Jawa Tengah,Tegal,8.6,67.61,4.33,73.17
+Jawa Tengah,Brebes,8.98,66.1,4.33,73.17
+Jawa Tengah,Kota Magelang,5.25,69.66,4.33,73.17
+Jawa Tengah,Kota Surakarta,4.58,69.18,4.33,73.17
+Jawa Tengah,Kota Salatiga,4.57,72.09,4.33,73.17
+Jawa Tengah,Kota Semarang,5.99,69.42,4.33,73.17
+Jawa Tengah,Kota Pekalongan,5.02,73.95,4.33,73.17
+Jawa Tengah,Jawa Tengah,5.13,71.72,4.33,73.17
+Jawa Tengah,Jepara,3.35,71.57,4.33,73.17
+Jawa Tengah,Pati,4.29,73.1,4.33,73.17
+Jawa Tengah,Kudus,3.25,72.19,4.33,73.17
+Jawa Tengah,Boyolali,4.05,74.73,4.33,73.17
+Jawa Tengah,Banyumas,6.35,64.6,4.33,73.17
+Jawa Tengah,Blora,3.1,78.02,4.33,73.17
+Jawa Tengah,Grobogan,4.02,75.81,4.33,73.17
+Jawa Tengah,Sragen,3.87,68.6,4.33,73.17
+Jawa Tengah,Karanganyar,4.35,70.69,4.33,73.17
+Jawa Tengah,Wonogiri,1.92,82.45,4.33,73.17
+Jawa Tengah,Sukoharjo,3.4,67.66,4.33,73.17
+Jawa Tengah,Klaten,4.2,66.71,4.33,73.17
+Jawa Tengah,Rembang,2.6,72.75,4.33,73.17
+Jawa Tengah,Magelang,4.42,79.45,4.33,73.17
+Jawa Tengah,Wonosobo,4.95,73.59,4.33,73.17
+Jawa Tengah,Purbalingga,5.61,73.45,4.33,73.17
+Jawa Tengah,Purworejo,4.02,74.76,4.33,73.17
+Jawa Tengah,Kebumen,5.11,74.54,4.33,73.17
+Jawa Tengah,Banjarnegara,6.26,71.64,4.33,73.17
+DI Yogyakarta,Bantul,3.78,75.06,3.18,73.73
+DI Yogyakarta,Gunung Kidul,2.09,76.66,3.18,73.73
+DI Yogyakarta,Sleman,4.47,71.18,3.18,73.73
+DI Yogyakarta,Kulon Progo,2.4,75.75,3.18,73.73
+DI Yogyakarta,Kota Yogyakarta,6.07,73.2,3.18,73.73
+DI Yogyakarta,DI Yogyakarta,3.69,74.08,3.18,73.73
+Jawa Timur,Mojokerto,4.67,72.51,3.61,74.25
+Jawa Timur,Sidoarjo,8.05,69.62,3.61,74.25
+Jawa Timur,Pasuruan,5.48,71.21,3.61,74.25
+Jawa Timur,Probolinggo,3.24,69.48,3.61,74.25
+Jawa Timur,Situbondo,3.27,75.28,3.61,74.25
+Jawa Timur,Bondowoso,4.15,74.39,3.61,74.25
+Jawa Timur,Banyuwangi,4.75,79.04,3.61,74.25
+Jawa Timur,Jombang,4.66,71.91,3.61,74.25
+Jawa Timur,Jember,4.01,72.3,3.61,74.25
+Jawa Timur,Malang,5.7,70.66,3.61,74.25
+Jawa Timur,Kediri,5.79,68.74,3.61,74.25
+Jawa Timur,Blitar,4.91,73.5,3.61,74.25
+Jawa Timur,Tulungagung,5.65,74.7,3.61,74.25
+Jawa Timur,Jawa Timur,4.88,72.56,3.61,74.25
+Jawa Timur,Kota Surabaya,6.76,68.73,3.61,74.25
+Jawa Timur,Ponorogo,4.66,75.88,3.61,74.25
+Jawa Timur,Lumajang,3.67,68.49,3.61,74.25
+Jawa Timur,Pacitan,1.83,81.64,3.61,74.25
+Jawa Timur,Trenggalek,4.52,80.72,3.61,74.25
+Jawa Timur,Magetan,4.16,78.48,3.61,74.25
+Jawa Timur,Kota Madiun,5.85,69.29,3.61,74.25
+Jawa Timur,Kota Mojokerto,4.73,72.5,3.61,74.25
+Jawa Timur,Kota Pasuruan,5.64,75.65,3.61,74.25
+Jawa Timur,Kota Probolinggo,4.53,70.61,3.61,74.25
+Jawa Timur,Kota Malang,6.8,67.58,3.61,74.25
+Jawa Timur,Kota Blitar,5.24,72.26,3.61,74.25
+Jawa Timur,Kota Kediri,4.06,71.83,3.61,74.25
+Jawa Timur,Madiun,5.14,72.49,3.61,74.25
+Jawa Timur,Sumenep,1.71,78.86,3.61,74.25
+Jawa Timur,Sampang,2.72,73.54,3.61,74.25
+Jawa Timur,Bangkalan,6.18,71.49,3.61,74.25
+Jawa Timur,Gresik,6.82,70.12,3.61,74.25
+Jawa Timur,Lamongan,5.46,75.08,3.61,74.25
+Jawa Timur,Tuban,4.4,74.73,3.61,74.25
+Jawa Timur,Bojonegoro,4.63,74.29,3.61,74.25
+Jawa Timur,Ngawi,2.41,69.43,3.61,74.25
+Jawa Timur,Pamekasan,1.74,77.14,3.61,74.25
+Jawa Timur,Nganjuk,4.68,66.89,3.61,74.25
+Jawa Timur,Kota Batu,4.52,78.99,3.61,74.25
+Banten,Serang,9.94,63.22,6.64,65.82
+Banten,Tangerang,6.94,66.87,6.64,65.82
+Banten,Lebak,7.57,67.9,6.64,65.82
+Banten,Banten,7.52,64.44,6.64,65.82
+Banten,Kota Tangerang Selatan,5.81,60.5,6.64,65.82
+Banten,Pandeglang,9.05,60.33,6.64,65.82
+Banten,Kota Cilegon,7.25,62.7,6.64,65.82
+Banten,Kota Tangerang,6.76,63.39,6.64,65.82
+Banten,Kota Serang,7.45,68.44,6.64,65.82
+Bali,Jembrana,1.44,67.36,1.58,77.4
+Bali,Buleleng,3.12,69.51,1.58,77.4
+Bali,Tabanan,1.29,75.42,1.58,77.4
+Bali,Badung,0.4,72.6,1.58,77.4
+Bali,Gianyar,1.46,76.11,1.58,77.4
+Bali,Klungkung,1.57,76.05,1.58,77.4
+Bali,Karang Asem,0.62,80.61,1.58,77.4
+Bali,Kota Denpasar,2.29,71.7,1.58,77.4
+Bali,Bangli,0.75,83.11,1.58,77.4
+Bali,Bali,1.57,73.77,1.58,77.4
+Nusa Tenggara Barat,Kota Mataram,4.78,68.26,3.22,76.5
+Nusa Tenggara Barat,Bima,2.15,75.31,3.22,76.5
+Nusa Tenggara Barat,Dompu,2.36,72.48,3.22,76.5
+Nusa Tenggara Barat,Sumbawa Barat,3.54,70.87,3.22,76.5
+Nusa Tenggara Barat,Lombok Timur,2.47,71.07,3.22,76.5
+Nusa Tenggara Barat,Sumbawa,2.79,71.17,3.22,76.5
+Nusa Tenggara Barat,Lombok Barat,3.12,74.0,3.22,76.5
+Nusa Tenggara Barat,Lombok Utara,1.4,76.19,3.22,76.5
+Nusa Tenggara Barat,Nusa Tenggara Barat,2.8,73.31,3.22,76.5
+Nusa Tenggara Barat,Kota Bima,3.57,78.09,3.22,76.5
+Nusa Tenggara Barat,Lombok Tengah,2.78,76.87,3.22,76.5
+Nusa Tenggara Timur,Nagekeo,3.54,76.86,3.23,75.81
+Nusa Tenggara Timur,Nusa Tenggara Timur,3.14,75.72,3.23,75.81
+Nusa Tenggara Timur,Kota Kupang,5.69,64.75,3.23,75.81
+Nusa Tenggara Timur,Malaka,3.06,73.48,3.23,75.81
+Nusa Tenggara Timur,Sabu Raijua,4.06,76.14,3.23,75.81
+Nusa Tenggara Timur,Manggarai Timur,1.63,80.33,3.23,75.81
+Nusa Tenggara Timur,Sumba Barat Daya,2.08,80.15,3.23,75.81
+Nusa Tenggara Timur,Belu,5.45,69.47,3.23,75.81
+Nusa Tenggara Timur,Manggarai Barat,4.42,70.71,3.23,75.81
+Nusa Tenggara Timur,Sumba Barat,3.52,78.83,3.23,75.81
+Nusa Tenggara Timur,Sumba Tengah,1.89,78.79,3.23,75.81
+Nusa Tenggara Timur,Sumba Timur,2.21,81.36,3.23,75.81
+Nusa Tenggara Timur,Kupang,3.22,76.93,3.23,75.81
+Nusa Tenggara Timur,Timor Tengah Utara,1.96,75.74,3.23,75.81
+Nusa Tenggara Timur,Alor,2.52,80.84,3.23,75.81
+Nusa Tenggara Timur,Timor Tengah Selatan,2.64,83.13,3.23,75.81
+Nusa Tenggara Timur,Flores Timur,3.79,72.5,3.23,75.81
+Nusa Tenggara Timur,Sikka,2.62,74.35,3.23,75.81
+Nusa Tenggara Timur,Ende,2.59,74.69,3.23,75.81
+Nusa Tenggara Timur,Ngada,4.0,74.78,3.23,75.81
+Nusa Tenggara Timur,Manggarai,2.44,79.14,3.23,75.81
+Nusa Tenggara Timur,Rote Ndao,3.65,68.99,3.23,75.81
+Nusa Tenggara Timur,Lembata,2.55,77.49,3.23,75.81
+Kalimantan Barat,5.05,69.42,,4.23,67.64
+Kalimantan Barat,Sambas,5.04,72.72,4.23,67.64
+Kalimantan Barat,Bengkayang,2.92,72.93,4.23,67.64
+Kalimantan Barat,Landak,2.24,71.13,4.23,67.64
+Kalimantan Barat,Mempawah,7.33,68.27,4.23,67.64
+Kalimantan Barat,Sanggau,3.86,70.31,4.23,67.64
+Kalimantan Barat,Ketapang,6.57,66.48,4.23,67.64
+Kalimantan Barat,Sintang,2.92,74.12,4.23,67.64
+Kalimantan Barat,Kapuas Hulu,2.19,72.28,4.23,67.64
+Kalimantan Barat,Sekadau,2.29,73.77,4.23,67.64
+Kalimantan Barat,Melawi,2.46,73.73,4.23,67.64
+Kalimantan Barat,Kayong Utara,3.04,72.54,4.23,67.64
+Kalimantan Barat,Kubu Raya,6.76,65.28,4.23,67.64
+Kalimantan Barat,Kota Pontianak,8.92,63.47,4.23,67.64
+Kalimantan Barat,Kota Singkawang,8.51,66.6,4.23,67.64
+Kalimantan Tengah,Kota Palangka Raya,5.13,64.51,3.47,69.9
+Kalimantan Tengah,Kalimantan Tengah,4.1,67.18,3.47,69.9
+Kalimantan Tengah,Kotawaringin Barat,4.45,67.17,3.47,69.9
+Kalimantan Tengah,Kotawaringin Timur,4.77,63.03,3.47,69.9
+Kalimantan Tengah,Kapuas,3.66,66.58,3.47,69.9
+Kalimantan Tengah,Murung Raya,2.75,66.78,3.47,69.9
+Kalimantan Tengah,Seruyan,3.61,67.66,3.47,69.9
+Kalimantan Tengah,Gunung Mas,3.24,71.06,3.47,69.9
+Kalimantan Tengah,Pulang Pisau,2.07,74.92,3.47,69.9
+Kalimantan Tengah,Katingan,4.96,64.42,3.47,69.9
+Kalimantan Tengah,Lamandau,3.32,69.01,3.47,69.9
+Kalimantan Tengah,Sukamara,5.23,72.39,3.47,69.9
+Kalimantan Tengah,Barito Utara,4.85,70.27,3.47,69.9
+Kalimantan Tengah,Barito Timur,3.37,74.79,3.47,69.9
+Kalimantan Tengah,Barito Selatan,4.33,65.62,3.47,69.9
+Kalimantan Selatan,Barito Kuala,3.42,71.89,3.94,70.41
+Kalimantan Selatan,Banjar,2.73,70.21,3.94,70.41
+Kalimantan Selatan,Kota Baru,6.08,64.0,3.94,70.41
+Kalimantan Selatan,Tanah Laut,3.58,69.61,3.94,70.41
+Kalimantan Selatan,Tapin,3.93,70.17,3.94,70.41
+Kalimantan Selatan,Kalimantan Selatan,4.31,69.76,3.94,70.41
+Kalimantan Selatan,Hulu Sungai Tengah,3.26,71.97,3.94,70.41
+Kalimantan Selatan,Hulu Sungai Utara,3.85,75.34,3.94,70.41
+Kalimantan Selatan,Tabalong,3.6,72.94,3.94,70.41
+Kalimantan Selatan,Kota Banjar Baru,5.01,67.18,3.94,70.41
+Kalimantan Selatan,Kota Banjarmasin,6.7,66.16,3.94,70.41
+Kalimantan Selatan,Balangan,2.7,73.16,3.94,70.41
+Kalimantan Selatan,Tanah Bumbu,6.56,68.57,3.94,70.41
+Kalimantan Selatan,Hulu Sungai Selatan,2.12,74.91,3.94,70.41
+Kalimantan Timur,Kalimantan Timur,5.31,65.57,5.33,66.4
+Kalimantan Timur,Kota Bontang,7.74,68.35,5.33,66.4
+Kalimantan Timur,Kota Balikpapan,6.09,63.48,5.33,66.4
+Kalimantan Timur,Mahakam Ulu,2.09,75.0,5.33,66.4
+Kalimantan Timur,Penajam Paser Utara,2.07,66.25,5.33,66.4
+Kalimantan Timur,Berau,4.95,66.91,5.33,66.4
+Kalimantan Timur,Kutai Timur,5.93,66.22,5.33,66.4
+Kalimantan Timur,Kutai Kartanegara,4.05,65.32,5.33,66.4
+Kalimantan Timur,Kutai Barat,6.16,70.51,5.33,66.4
+Kalimantan Timur,Kota Samarinda,5.92,65.49,5.33,66.4
+Kalimantan Timur,Paser,4.72,62.95,5.33,66.4
+Kalimantan Utara,Kota Tarakan,5.25,66.14,3.9,69.19
+Kalimantan Utara,Malinau,3.19,74.26,3.9,69.19
+Kalimantan Utara,Bulungan,4.54,71.86,3.9,69.19
+Kalimantan Utara,Tana Tidung,3.24,75.88,3.9,69.19
+Kalimantan Utara,Nunukan,2.69,71.93,3.9,69.19
+Kalimantan Utara,Kalimantan Utara,4.01,70.35,3.9,69.19
+Sulawesi Utara,Minahasa,7.65,61.11,6.03,65.3
+Sulawesi Utara,Kepulauan Sangihe,2.56,65.19,6.03,65.3
+Sulawesi Utara,Kepulauan Talaud,3.1,73.88,6.03,65.3
+Sulawesi Utara,Minahasa Selatan,4.98,63.62,6.03,65.3
+Sulawesi Utara,Minahasa Utara,7.17,61.59,6.03,65.3
+Sulawesi Utara,Bolaang Mongondow Utara,4.48,64.45,6.03,65.3
+Sulawesi Utara,Siau Tagulandang Biaro,2.09,62.76,6.03,65.3
+Sulawesi Utara,Bolaang Mongondow,4.61,65.5,6.03,65.3
+Sulawesi Utara,Sulawesi Utara,6.1,64.09,6.03,65.3
+Sulawesi Utara,Kota Kotamobagu,6.34,69.41,6.03,65.3
+Sulawesi Utara,Kota Tomohon,8.52,63.64,6.03,65.3
+Sulawesi Utara,Bolaang Mongondow Selatan,2.55,64.46,6.03,65.3
+Sulawesi Utara,Kota Bitung,7.82,64.54,6.03,65.3
+Sulawesi Utara,Kota Manado,8.85,61.27,6.03,65.3
+Sulawesi Utara,Bolaang Mongondow Timur,5.35,69.23,6.03,65.3
+Sulawesi Utara,Minahasa Tenggara,2.84,67.97,6.03,65.3
+Sulawesi Tengah,Banggai Kepulauan,1.56,72.76,3.02,70.51
+Sulawesi Tengah,Sulawesi Tengah,2.95,69.85,3.02,70.51
+Sulawesi Tengah,Kota Palu,5.65,69.28,3.02,70.51
+Sulawesi Tengah,Banggai Laut,3.64,59.17,3.02,70.51
+Sulawesi Tengah,Sigi,2.6,70.94,3.02,70.51
+Sulawesi Tengah,Tojo Una-Una,2.83,75.06,3.02,70.51
+Sulawesi Tengah,Parigi Moutong,2.11,73.3,3.02,70.51
+Sulawesi Tengah,Buol,3.14,69.43,3.02,70.51
+Sulawesi Tengah,Toli-Toli,3.12,68.8,3.02,70.51
+Sulawesi Tengah,Poso,1.67,71.07,3.02,70.51
+Sulawesi Tengah,Morowali,2.84,58.52,3.02,70.51
+Sulawesi Tengah,Banggai,3.12,71.7,3.02,70.51
+Sulawesi Tengah,Morowali Utara,2.23,70.33,3.02,70.51
+Sulawesi Tengah,Donggala,2.79,66.57,3.02,70.51
+Sulawesi Selatan,Soppeng,4.34,59.44,4.96,65.99
+Sulawesi Selatan,Pangkajene Dan Kepulauan,5.05,69.98,4.96,65.99
+Sulawesi Selatan,Luwu Timur,5.42,69.25,4.96,65.99
+Sulawesi Selatan,Toraja Utara,2.6,77.5,4.96,65.99
+Sulawesi Selatan,Kota Makassar,10.6,58.72,4.96,65.99
+Sulawesi Selatan,Kota Parepare,5.86,65.52,4.96,65.99
+Sulawesi Selatan,Kota Palopo,7.81,65.75,4.96,65.99
+Sulawesi Selatan,Sulawesi Selatan,4.33,65.66,4.96,65.99
+Sulawesi Selatan,Luwu,3.7,68.61,4.96,65.99
+Sulawesi Selatan,Enrekang,1.53,68.09,4.96,65.99
+Sulawesi Selatan,Pinrang,3.64,60.51,4.96,65.99
+Sulawesi Selatan,Sidenreng Rappang,3.29,55.49,4.96,65.99
+Sulawesi Selatan,Luwu Utara,2.63,66.98,4.96,65.99
+Sulawesi Selatan,Wajo,2.1,65.78,4.96,65.99
+Sulawesi Selatan,Barru,5.89,62.26,4.96,65.99
+Sulawesi Selatan,Maros,3.64,61.45,4.96,65.99
+Sulawesi Selatan,Sinjai,1.69,67.16,4.96,65.99
+Sulawesi Selatan,Gowa,3.43,69.63,4.96,65.99
+Sulawesi Selatan,Takalar,3.58,65.86,4.96,65.99
+Sulawesi Selatan,Jeneponto,2.13,66.44,4.96,65.99
+Sulawesi Selatan,Bantaeng,3.71,75.58,4.96,65.99
+Sulawesi Selatan,Bulukumba,1.31,70.78,4.96,65.99
+Sulawesi Selatan,Kepulauan Selayar,1.98,71.88,4.96,65.99
+Sulawesi Selatan,Bone,2.88,62.69,4.96,65.99
+Sulawesi Selatan,Tana Toraja,3.37,82.35,4.96,65.99
+Sulawesi Tenggara,Buton Utara,1.93,80.95,3.27,69.77
+Sulawesi Tenggara,Konawe Utara,2.76,70.75,3.27,69.77
+Sulawesi Tenggara,Muna,3.27,70.77,3.27,69.77
+Sulawesi Tenggara,Buton,2.48,68.49,3.27,69.77
+Sulawesi Tenggara,Konawe Kepulauan,1.59,74.93,3.27,69.77
+Sulawesi Tenggara,Muna Barat,2.22,76.38,3.27,69.77
+Sulawesi Tenggara,Buton Tengah,2.5,67.65,3.27,69.77
+Sulawesi Tenggara,Kota Kendari,5.18,66.87,3.27,69.77
+Sulawesi Tenggara,Kota Baubau,4.17,70.52,3.27,69.77
+Sulawesi Tenggara,Sulawesi Tenggara,3.15,70.07,3.27,69.77
+Sulawesi Tenggara,Buton Selatan,4.33,72.56,3.27,69.77
+Sulawesi Tenggara,Wakatobi,2.73,73.08,3.27,69.77
+Sulawesi Tenggara,Bombana,1.16,67.75,3.27,69.77
+Sulawesi Tenggara,Konawe Selatan,3.12,69.93,3.27,69.77
+Sulawesi Tenggara,Kolaka,3.36,65.22,3.27,69.77
+Sulawesi Tenggara,Konawe,3.09,67.93,3.27,69.77
+Sulawesi Tenggara,Kolaka Utara,2.24,73.93,3.27,69.77
+Sulawesi Tenggara,Kolaka Timur,2.18,77.08,3.27,69.77
+Gorontalo,Gorontalo,3.06,70.79,3.12,67.52
+Gorontalo,Boalemo,2.86,72.3,3.12,67.52
+Gorontalo,Kota Gorontalo,4.06,65.68,3.12,67.52
+Gorontalo,Gorontalo Utara,2.77,71.13,3.12,67.52
+Gorontalo,Bone Bolango,3.39,68.39,3.12,67.52
+Gorontalo,Pohuwato,3.46,72.96,3.12,67.52
+Gorontalo,Gorontalo,2.48,72.89,3.12,67.52
+Sulawesi Barat,Mamasa,2.35,78.45,3.17,71.81
+Sulawesi Barat,Majene,2.64,64.03,3.17,71.81
+Sulawesi Barat,Polewali Mandar,1.95,73.4,3.17,71.81
+Sulawesi Barat,Mamuju,2.99,68.24,3.17,71.81
+Sulawesi Barat,Pasangkayu,2.02,72.45,3.17,71.81
+Sulawesi Barat,Mamuju Tengah,1.83,66.01,3.17,71.81
+Sulawesi Barat,Sulawesi Barat,2.27,71.05,3.17,71.81
+Maluku,Maluku Tenggara,5.73,61.37,5.95,67.56
+Maluku,Maluku Tengah,6.75,63.26,5.95,67.56
+Maluku,Buru,4.86,73.72,5.95,67.56
+Maluku,Seram Bagian Barat,4.74,62.72,5.95,67.56
+Maluku,Seram Bagian Timur,3.31,56.71,5.95,67.56
+Maluku,Maluku Barat Daya,2.43,67.99,5.95,67.56
+Maluku,Buru Selatan,0.97,68.72,5.95,67.56
+Maluku,Kota Ambon,11.65,65.8,5.95,67.56
+Maluku,Kepulauan Tanimbar,4.31,62.0,5.95,67.56
+Maluku,Kota Tual,8.98,55.48,5.95,67.56
+Maluku,Kepulauan Aru,1.96,59.62,5.95,67.56
+Maluku,Maluku,6.31,63.6,5.95,67.56
+Maluku Utara,Halmahera Tengah,3.95,70.77,4.26,68.99
+Maluku Utara,Maluku Utara,4.31,67.77,4.26,68.99
+Maluku Utara,Pulau Taliabu,3.15,63.11,4.26,68.99
+Maluku Utara,Pulau Morotai,4.56,64.72,4.26,68.99
+Maluku Utara,Halmahera Timur,4.66,70.55,4.26,68.99
+Maluku Utara,Halmahera Utara,6.53,69.86,4.26,68.99
+Maluku Utara,Halmahera Selatan,2.44,73.24,4.26,68.99
+Maluku Utara,Kepulauan Sula,2.67,62.38,4.26,68.99
+Maluku Utara,Kota Ternate,6.62,61.2,4.26,68.99
+Maluku Utara,Halmahera Barat,3.77,68.09,4.26,68.99
+Maluku Utara,Kota Tidore Kepulauan,3.52,68.72,4.26,68.99
+Papua Barat,Papua Barat,5.38,67.24,4.21,71.45
+Papua Barat,Pegunungan Arfak,,94.49,4.21,71.45
+Papua Barat,Manokwari Selatan,,80.47,4.21,71.45
+Papua Barat,Manokwari,5.97,68.19,4.21,71.45
+Papua Barat,Teluk Bintuni,3.52,69.33,4.21,71.45
+Papua Barat,Teluk Wondama,2.77,69.13,4.21,71.45
+Papua Barat,Kaimana,3.24,64.64,4.21,71.45
+Papua Barat,Fakfak,6.52,64.82,4.21,71.45
+Papua,Supiori,4.81,57.48,4.73,74.78
+Papua,Mamberamo Raya,,42.81,4.73,74.78
+Papua,Waropen,4.62,66.53,4.73,74.78
+Papua,Keerom,1.5,76.79,4.73,74.78
+Papua,Sarmi,3.09,65.73,4.73,74.78
+Papua,Biak Numfor,5.72,65.97,4.73,74.78
+Papua,Kepulauan Yapen,4.01,61.05,4.73,74.78
+Papua,Jayapura,4.07,67.69,4.73,74.78
+Papua,Kota Jayapura,10.76,67.37,4.73,74.78
+Papua,Papua,2.67,77.2,4.73,74.78
